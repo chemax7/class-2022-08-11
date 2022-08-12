@@ -8,3 +8,7 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## Useful Information
+* chemax7
+* maxtlu2005@gmail.com
+* Link to 
